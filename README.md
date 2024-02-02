@@ -1,27 +1,14 @@
-# Joncarter
-Beautiful HTML,CSS and Bootstrap Portfolio
+# Hi there 👋, I'm Ranjith!
 
-# Demo
-- https://joncarter.netlify.app/
+🚀 Full Stack Developer passionate about crafting digital experiences.
 
-# Clone Project
-- https://github.com/SA7MAN/joncarter
+🔭 Currently working on exciting projects using MERN Stack.
 
-# Features
-- Fully Responsive
-- Mobile Navigations
-- Animated elements on scroll
-- Smooth scrolling in each section.
-- Sticky Navigation on scrolling
-- and more ..
+🌱 Learning GraphQL and Next.js.
 
+💬 Ask me about JavaScript, React, Node.js, MongoDB, Express.js.
 
-# Credit
-- https://fonts.google.com/
-- https://line-awesome.com/
-- https://unsplash.com/
-- https://michalsnik.github.io/aos/
+📫 Reach me at: ranjithp5841@gmail.com
 
+Connect with me on https://www.linkedin.com/in/ranjithp007/
 
-# Watch more
-For more videos visit to my YouTube channel. [SA7MAN](https://www.youtube.com/c/SA7MAN)
